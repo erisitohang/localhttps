@@ -1,0 +1,13 @@
+{
+  "name": "localhttps",
+  "version": "0.1.0",
+  "description": "HTTPS on custom local hostnames for dev servers (Linux, macOS, WSL)",
+  "type": "module",
+  "bin": {
+    "localhttps": "localhttps.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
