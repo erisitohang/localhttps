@@ -36,7 +36,7 @@ Requires Node 20+ and `openssl`.
 ## Install
 
 ```bash
-git clone <this repo> && cd localhttps
+git clone https://github.com/erisitohang/localhttps.git && cd localhttps
 npm link            # puts `localhttps` on PATH
 ```
 
